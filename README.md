@@ -9,5 +9,6 @@
 HTML5 CSS3 JavaScript Python
 
 ## Connect with Me: 
-  https://github.com/SikelelwaKwinana https://www.linkedin.com/feed/
+  https://github.com/SikelelwaKwinana 
+  https://www.linkedin.com/feed/
 
