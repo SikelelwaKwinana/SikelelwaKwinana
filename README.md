@@ -13,12 +13,5 @@
 
 
 ## Connect with Me: 
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562](https://github.com/SikelelwaKwinana/SikelelwaKwinana/assets/137270323/206eed7d-6ce9-4a2b-ad2b-97c7ce9be95f)
 
-
-
-
-
-  https://github.com/SikelelwaKwinana 
-  https://www.linkedin.com/feed/
 
