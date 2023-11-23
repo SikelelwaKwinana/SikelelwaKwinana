@@ -2,6 +2,8 @@
 
 
 ## About me:
+🚀I'm an aspiring Junior software developer with a passion for continuous learning.✨
+
 - 🔭 Currently studying Software development at CodeSpace.
 - 🌱 Learning the React framework at the moment.
 
